@@ -1,0 +1,15 @@
+th{
+color:white;
+    background-color: deeppink;
+    
+    table{
+        font-family: sans-serif;
+        border-collapse: collapse;
+        
+        
+        td{
+          color: aliceblue;  
+            
+        }
+    }    
+}
